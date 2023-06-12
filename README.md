@@ -1,4 +1,4 @@
-# ResNet50_with_C_code
+# ResNet50 with C code
 which create ResNet50 object classification model with C language without library.
 
 all function is work and can get 50% accurancy in one iterate but the calculate speed is slower than python's library which because this program didn't include CUDA.
