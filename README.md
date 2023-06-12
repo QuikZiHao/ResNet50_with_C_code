@@ -7,3 +7,8 @@ you can change the input for other dataset testing.
 
 this project is using CIFAR-10 as the data-set
 https://www.cs.toronto.edu/~kriz/cifar.html
+
+you can download all the data which used in this project in the link below
+
+https://drive.google.com/drive/folders/1VFETpai3c-YO317lBxM5IrIrU8uIeBOG
+
