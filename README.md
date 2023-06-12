@@ -4,3 +4,6 @@ which create ResNet50 object classification model with C language without librar
 all function is work but the calculate speed is slower than python's library which because this program didn't include CUDA.
 
 you can change the input for other dataset testing.
+
+this project is using CIFAR-10 as the data-set
+https://www.cs.toronto.edu/~kriz/cifar.html
